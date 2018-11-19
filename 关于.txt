@@ -1,0 +1,11 @@
+1、IT社交平台（全球最大的）
+2、项目托管，版本控制
+
+
+
+
+
+commit 提交
+release 版本
+branch 分支
+upload 上传
